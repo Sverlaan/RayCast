@@ -1,5 +1,5 @@
 # RayCast
-A GUI for rendering a 3D raycasting perspective that corresponds to a 2D map.
+GUI for rendering a 3D raycasting perspective that corresponds to a 2D map.
 
 ## How It Works
 The program is a Windows Forms App (.NET Framework). When running *Program.cs*, the user can interact with a GUI that shows two panels: a two-dimensional map that gives an overview and a pseudo-three-dimensional render of the corresponding perspective. 
